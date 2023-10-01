@@ -75,3 +75,6 @@ That link show the API documentation
 usuário colocar barra em categoria
 questões em todas as categorias
 como o usupario var navegar nas subcategorias
+"# chatBot" 
+"# chatBot" 
+"# chatBot" 
